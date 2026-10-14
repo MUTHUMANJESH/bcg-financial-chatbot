@@ -1,0 +1,16 @@
+Sample manual test cases
+========================
+1. Query: What was Microsoft's total revenue in 2025?
+   Expected: Microsoft revenue in FY2025 = $281,724 million.
+2. Query: How did Tesla net income change over the last year?
+   Expected: Tesla net income decreased from FY2024 to FY2025 by $3,298 million (46.11%).
+3. Query: What are Apple's total assets in 2024?
+   Expected: Apple total assets in FY2024 = $364,980 million.
+4. Query: What was Apple's operating cash flow in 2025?
+   Expected: Apple operating cash flow in FY2025 = $111,482 million.
+5. Query: Tell me Microsoft's liabilities in 2023.
+   Expected: Microsoft total liabilities in FY2023 = $205,753 million.
+6. Query: What is Google's revenue in 2025?
+   Expected: The chatbot asks the user to mention Microsoft, Tesla, or Apple.
+
+Notes: Values are stored in USD millions. This is a basic rule-based prototype, not a live data service or investment-advice tool. Verify financial values against the relevant annual reports before relying on them.
